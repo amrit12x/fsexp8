@@ -1,7 +1,7 @@
 # Full Stack Development Experiments
 
-**Name:** Sujal Gulati  
-**UID:** 24BDA70318
+**Name:** Amrit 
+**UID:** 24BDA70334
 
 ---
 
